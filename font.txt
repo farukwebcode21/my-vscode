@@ -1,0 +1,2 @@
+MesloLGS =>  https://github.com/romkatv/dotfiles-public/tree/master/.local/share/fonts/NerdFonts
+JetBrains =>https://www.jetbrains.com/lp/mono/
